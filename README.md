@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td align="center" width="25%"><a href="https://github.com/scott-lbx/lbm-nca-thesis"><img src="https://raw.githubusercontent.com/scott-lbx/lbm-nca-thesis/main/docs/assets/demo-grasshopper-live.png" width="220"><br><b>lbm-nca-thesis</b></a><br><sub>NCA 預測 2D 都市風場</sub></td>
-<td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-algo-gallery"><img src="https://raw.githubusercontent.com/scott-lbx/teach-algo-gallery/main/img/cases/F01-54.jpg" width="220" height="140" style="object-fit:cover"><br><b>teach-algo-gallery</b></a><br><sub>GH 演算法圖鑑 37 個</sub></td>
+<td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-algo-gallery"><img src="https://raw.githubusercontent.com/scott-lbx/teach-algo-gallery/main/img/cases/F01-54.jpg" width="220"><br><b>teach-algo-gallery</b></a><br><sub>GH 演算法圖鑑 37 個</sub></td>
 <td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-115a-boids-game"><img src="https://raw.githubusercontent.com/scott-lbx/teach-115a-boids-game/main/docs/assets/hero.png" width="220"><br><b>teach-115a-boids-game</b></a><br><sub>多人 Boids 競技場</sub></td>
 <td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-115a-algo-template"><img src="https://raw.githubusercontent.com/scott-lbx/teach-115a-algo-template/main/docs/assets/hero.png" width="220"><br><b>teach-115a-algo-template</b></a><br><sub>GH C# Script 範本</sub></td>
 </tr>
