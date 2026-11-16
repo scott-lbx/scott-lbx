@@ -4,15 +4,20 @@
 
 ## 公開專案
 
-| 類別 | Repo | 說明 |
-|---|---|---|
-| 研究 | [lbm-nca-thesis](https://github.com/scott-lbx/lbm-nca-thesis) | NCA 預測 2D 都市風場，Rhino／Grasshopper 即時展示 |
-| 教學 | [teach-algo-gallery](https://github.com/scott-lbx/teach-algo-gallery) | GH 演算法設計圖鑑，37 個生成式演算法 |
-| 教學 | [teach-115a-boids-game](https://github.com/scott-lbx/teach-115a-boids-game) | 多人 Boids 競技場課堂遊戲 |
-| 教學 | [teach-115a-algo-template](https://github.com/scott-lbx/teach-115a-algo-template) | Grasshopper C# Script 專案範本 |
-| 工作坊 | [ws-df26-w18](https://github.com/scott-lbx/ws-df26-w18) | DigitalFUTURES 2026 Workshop 18 教材 |
-| 網站 | [site-zhudong-kg](https://github.com/scott-lbx/site-zhudong-kg) | 竹東知識圖譜 |
-| 網站 | [site-nanao-kg](https://github.com/scott-lbx/site-nanao-kg) | 南澳知識圖譜 |
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/scott-lbx/lbm-nca-thesis"><img src="https://raw.githubusercontent.com/scott-lbx/lbm-nca-thesis/main/docs/assets/demo-grasshopper-live.png" width="220"><br><b>lbm-nca-thesis</b></a><br><sub>NCA 預測 2D 都市風場</sub></td>
+<td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-algo-gallery"><img src="https://raw.githubusercontent.com/scott-lbx/teach-algo-gallery/main/img/cases/F01-54.jpg" width="220" height="140" style="object-fit:cover"><br><b>teach-algo-gallery</b></a><br><sub>GH 演算法圖鑑 37 個</sub></td>
+<td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-115a-boids-game"><img src="https://raw.githubusercontent.com/scott-lbx/teach-115a-boids-game/main/docs/assets/hero.png" width="220"><br><b>teach-115a-boids-game</b></a><br><sub>多人 Boids 競技場</sub></td>
+<td align="center" width="25%"><a href="https://github.com/scott-lbx/teach-115a-algo-template"><img src="https://raw.githubusercontent.com/scott-lbx/teach-115a-algo-template/main/docs/assets/hero.png" width="220"><br><b>teach-115a-algo-template</b></a><br><sub>GH C# Script 範本</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/scott-lbx/ws-df26-w18"><img src="https://raw.githubusercontent.com/scott-lbx/ws-df26-w18/master/archive/DigitalFuture26_ws/v06/fig/fig_d3_gallery.png" width="220"><br><b>ws-df26-w18</b></a><br><sub>DigitalFUTURES 2026 W18</sub></td>
+<td align="center"><a href="https://github.com/scott-lbx/site-zhudong-kg"><img src="https://raw.githubusercontent.com/scott-lbx/site-zhudong-kg/master/docs/assets/hero.png" width="220"><br><b>site-zhudong-kg</b></a><br><sub>竹東知識圖譜</sub></td>
+<td align="center"><a href="https://github.com/scott-lbx/site-nanao-kg"><img src="https://raw.githubusercontent.com/scott-lbx/site-nanao-kg/main/docs/assets/hero.png" width="220"><br><b>site-nanao-kg</b></a><br><sub>南澳知識圖譜</sub></td>
+<td></td>
+</tr>
+</table>
 
 ## 命名規則
 
